@@ -1,5 +1,7 @@
 # 💫 About Me:
-Apaixonado por Tecnologia, Sou estudante de 29 anos, interessado atuar como Fullstack.<br>Atualmente cursando Superior de Análise e Desenvolvimento  de Sistemas.<br>Estudo de forma autodidata programação desde 2023 e procuro conhecimento e experiência através <br>de projetos em meu portfólio e projetos voluntários.
+Olá Mundo ! 👽👋🏽 Me chamo Victor e sou um Desenvolvedor Back-end em início de carreira.
+Atualmente Cursando Superior em Análise e Desenvolvimento de Sistemas alinhado com
+meus estudos autodidata em Programação com foco nas linguagens abaixo...
 
 
 ## 🌐 Socials:
