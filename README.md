@@ -7,7 +7,7 @@
 <img src="https://i.giphy.com/OLPQ6z2hlHmwFc4Hso.webp" width="256" height="256"/>
 </div>
 
-Desenvolvedor Full Stack, 30 anos, do Rio de Janeiro (RJ) e apaixonado por tecnologia. Atualmente, graduando Análise e Desenvolvimento de Sistemas, em busca da primeira oportunidade na área de tecnologia.
+Desenvolvedor Full Stack, 31 anos, do Rio de Janeiro (RJ) e apaixonado por tecnologia. Atualmente, graduando Análise e Desenvolvimento de Sistemas, em busca da primeira oportunidade na área de tecnologia.
 
 <hr>
 <div align="center">
