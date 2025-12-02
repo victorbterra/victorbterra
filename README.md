@@ -58,20 +58,20 @@ Desenvolvedor Full Stack, 31 anos, do Rio de Janeiro (RJ) e apaixonado por tecno
 >Alguns dos meus projetos de estudo que me ajudam a criar hábitos para boas práticas de desenvolvimento.
 
 
-##### Lista de Tarefas
->Uma aplicação full stack para gerenciamento de tarefas, construída com React.js, Node.js, Express e MongoDB.
+##### Blog TechTerra
+>Uma aplicação full stack do meu blog, construída com React.js, Node.js, Express e MongoDB.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorbterra&repo=todo-list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorbterra/todo-list)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorbterra&repo=todo-list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://api-blog-terratech.onrender.com/api-docs/)
 
-##### Controle Financeiro
->Permitir que um usuário controle sua vida financeira mensal, cadastrando receitas, despesas e visualizando o saldo final com estatísticas úteis.
+##### Em Breve
+>Atualizando este projeto em questão...
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorbterra&repo=controle-financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorbterra/controle-financeiro)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorbterra&repo=controle-financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]()
 
 <hr>
 
 <div align="center">
 
-_Transformando ☕ e código em soluções_
+_Transformando ideias em boas soluções_
 
 </div>
